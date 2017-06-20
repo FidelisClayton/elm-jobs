@@ -1,3 +1,4 @@
+![Elm Logo](images/elm-jobs-header.png)
 # Elm jobs
 Discuss and post jobs for Elm. Publish the jobs via issue on Github.
 
