@@ -23,5 +23,8 @@ Also, see [that example job](https://github.com/FidelisClayton/elm-jobs/issues/1
 
 Add the necessary labels to facilitate the search (required level, remote...).
 
+## Follow us on Twitter ![twitter-logo](images/twitter-icon.png)
+All jobs shared here will automatically be posted on [@elmjobs_](https://twitter.com/elmjobs_)
+
 ## Important
 If the job is not more available please close the issue to prevent new people applying.
