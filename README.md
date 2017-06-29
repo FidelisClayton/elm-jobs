@@ -24,7 +24,10 @@ Also, see [that example job](https://github.com/FidelisClayton/elm-jobs/issues/1
 Add the necessary labels to facilitate the search (required level, remote...).
 
 ## Follow us on Twitter ![twitter-logo](images/twitter-icon.png)
-All jobs shared here will automatically be posted on [@elmjobs_](https://twitter.com/elmjobs_)
+All jobs shared here will automatically be posted on [@elmjobs_](https://twitter.com/elmjob).
 
+![Elm Jobs Twitter](images/twitter-elm-jobs.png)
 ## Important
-If the job is not more available please close the issue to prevent new people applying.
+1. If the job is not more available please close the issue to prevent new people applying.
+2. Please follow the title guide line, this format is used on Twitter bot to generate the images of the tweets.
+3. Add labels (`senior`, `located`, `freelancer`, etc) when creating a new issue, this also is used on Twitter bot.
