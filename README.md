@@ -2,6 +2,8 @@
 # Elm jobs
 Discuss and post jobs for Elm. Publish the jobs via issue on Github.
 
+![Jobs Chart](https://res.cloudinary.com/djjyymdbn/image/upload/chart.png)
+
 See available jobs in: [https://github.com/FidelisClayton/elm-jobs/issues](https://github.com/FidelisClayton/elm-jobs/issues)
 
 ## Motivations and Inspirations
